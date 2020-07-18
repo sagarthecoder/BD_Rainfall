@@ -19,7 +19,6 @@
 
     - collect data from source.
     - setting up the environment.
-    - Wrangling the data.
     - Perform basic descriptive analysis from features.
     - Provide necessary visualization for the average rainfall prediction in some cases.
     - Subdividing the groups if needed.
@@ -29,7 +28,7 @@
   
  ## Results 
  
-  from the analysis and result-comparision, I found that SVM Algorithm performed better that using Dicision Tree Regressor Algorithm.
+  From the analysis and result-comparision, I found that SVM Algorithm performed better that using Dicision Tree Regressor Algorithm.
  
 ## What could be done in the future
 
