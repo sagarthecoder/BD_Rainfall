@@ -4,7 +4,7 @@
 
 ## What is project about?
 
-  The main objective of this project is to handle,explore,analyze the rainfall data of Bangladesh from 1948 to 2014 and predict the Average rainfall of  area and month wise (       total 35 areas of Bangladesh)
+  The main objective of this project is to handle,explore,analyze the rainfall data of Bangladesh from 1948 to 2014 and predict the area & month-wise average rainfall (       total 35 areas of Bangladesh)
 
 ## What is the task?
   The task is to build an algorithm which predicts the average rainfall as month wise from 35 areas of Bangladesh.
