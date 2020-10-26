@@ -11,7 +11,7 @@
 
 ## What action did I take?
 
-  To predict the price, I had to tackle the problem following the standard data science pipelines. I cleaned the noisy data,analyze them,visualized them when necessary,performed   feature engineering and checked the performance using different machine learning algorithms. The actions were well described and demonstrated in the codes.
+  To predict the rainfall, I had to tackle the problem following the standard data science pipelines. I cleaned the noisy data,analyze them,visualized them when necessary,performed   feature engineering and checked the performance using different machine learning algorithms. The actions were well described and demonstrated in the codes.
 
 ## Codes
 
